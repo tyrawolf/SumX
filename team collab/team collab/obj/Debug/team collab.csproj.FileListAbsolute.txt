@@ -1,0 +1,7 @@
+C:\workspace\C#__Visual Studio\team collab\team collab\bin\Debug\team collab.exe.config
+C:\workspace\C#__Visual Studio\team collab\team collab\bin\Debug\team collab.exe
+C:\workspace\C#__Visual Studio\team collab\team collab\bin\Debug\team collab.pdb
+C:\workspace\C#__Visual Studio\team collab\team collab\obj\Debug\team collab.csprojAssemblyReference.cache
+C:\workspace\C#__Visual Studio\team collab\team collab\obj\Debug\team collab.csproj.CoreCompileInputs.cache
+C:\workspace\C#__Visual Studio\team collab\team collab\obj\Debug\team collab.exe
+C:\workspace\C#__Visual Studio\team collab\team collab\obj\Debug\team collab.pdb
